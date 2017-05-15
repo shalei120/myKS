@@ -1,0 +1,131 @@
+
+_:event1 <http://www.example.org/subject> "苹果公司" .
+_:event1 <http://www.example.org/trigger> "发布" .
+_:event1 <http://www.example.org/object> "iPad4".
+_:event1 <http://www.example.org/time> "201609" .
+
+_:event2 <http://www.example.org/subject> "三级飓风" .
+_:event2 <http://www.example.org/trigger> "袭击" .
+_:event2 <http://www.example.org/object> "福罗里达州".
+_:event2 <http://www.example.org/time> "201609" .
+
+_:event3 <http://www.example.org/subject> "朝鲜" .
+_:event3 <http://www.example.org/trigger> "试射" .
+_:event3 <http://www.example.org/object> "导弹".
+_:event3 <http://www.example.org/time> "201609" .
+
+_:company1 <http://www.example.org/name> "苹果公司" .
+_:company1 <http://www.example.org/support> "omni" .
+_:company1 <http://www.example.org/support> "com1" .
+_:company1 <http://www.example.org/support> "huawei" .
+_:company1 <http://www.example.org/support> "taijidian" .
+_:company1 <http://www.example.org/support> "duck" .
+
+
+_:company2 <http://www.example.org/name> "omni" .
+_:company2 <http://www.example.org/stock> _:stock2201609 .
+_:company2 <http://www.example.org/stock> _:stock2201610 .
+_:company2 <http://www.example.org/stock> _:stock2201611 .
+_:company2 <http://www.example.org/stock> _:stock2201612 .
+_:company2 <http://www.example.org/stock> _:stock2201613 .
+
+_:company3 <http://www.example.org/name> "huawei" .
+_:company3 <http://www.example.org/stock> _:stock3201609 .
+_:company3 <http://www.example.org/stock> _:stock3201610 .
+_:company3 <http://www.example.org/stock> _:stock3201611 .
+_:company3 <http://www.example.org/stock> _:stock3201612 .
+_:company3 <http://www.example.org/stock> _:stock3201613 .
+
+_:company5 <http://www.example.org/name> "福建水泥" .
+_:company5 <http://www.example.org/type> "水泥" .
+_:company5 <http://www.example.org/stock> _:stock5201609 .
+_:company5 <http://www.example.org/stock> _:stock5201610 .
+_:company5 <http://www.example.org/stock> _:stock5201611 .
+_:company5 <http://www.example.org/stock> _:stock5201612 .
+_:company5 <http://www.example.org/stock> _:stock5201613 .
+
+_:company4 <http://www.example.org/name> "胡锦波水泥公司" .
+_:company4 <http://www.example.org/type> "水泥" .
+_:company4 <http://www.example.org/stock> _:stock4201609 .
+_:company4 <http://www.example.org/stock> _:stock4201610 .
+_:company4 <http://www.example.org/stock> _:stock4201611 .
+_:company4 <http://www.example.org/stock> _:stock4201612 .
+_:company4 <http://www.example.org/stock> _:stock4201613 .
+
+_:company6 <http://www.example.org/name> "华新水泥" .
+_:company6 <http://www.example.org/type> "水泥" .
+_:company6 <http://www.example.org/stock> _:stock6201609 .
+_:company6 <http://www.example.org/stock> _:stock6201610 .
+_:company6 <http://www.example.org/stock> _:stock6201611 .
+_:company6 <http://www.example.org/stock> _:stock6201612 .
+_:company6 <http://www.example.org/stock> _:stock6201613 .
+
+_:company7 <http://www.example.org/name> "华力创通300045" .
+_:company7 <http://www.example.org/type> "国防" .
+_:company7 <http://www.example.org/stock> _:stock7201609 .
+_:company7 <http://www.example.org/stock> _:stock7201610 .
+_:company7 <http://www.example.org/stock> _:stock7201611 .
+_:company7 <http://www.example.org/stock> _:stock7201612 .
+_:company7 <http://www.example.org/stock> _:stock7201613 .
+
+_:company8 <http://www.example.org/name> "海兰信300065" .
+_:company8 <http://www.example.org/type> "国防" .
+_:company8 <http://www.example.org/stock> _:stock8201609 .
+_:company8 <http://www.example.org/stock> _:stock8201610 .
+_:company8 <http://www.example.org/stock> _:stock8201611 .
+_:company8 <http://www.example.org/stock> _:stock8201612 .
+_:company8 <http://www.example.org/stock> _:stock8201613 .
+
+_:company9 <http://www.example.org/name> "宜科科技002036" .
+_:company9 <http://www.example.org/type> "国防" .
+_:company9 <http://www.example.org/stock> _:stock9201609 .
+_:company9 <http://www.example.org/stock> _:stock9201610 .
+_:company9 <http://www.example.org/stock> _:stock9201611 .
+_:company9 <http://www.example.org/stock> _:stock9201612 .
+_:company9 <http://www.example.org/stock> _:stock9201613 .
+
+
+_:stock2201609 <http://www.example.org/stocktime> "201609" .
+_:stock2201609 <http://www.example.org/price> "3004" .
+
+
+_:stock2201610 <http://www.example.org/stocktime> "201610" .
+_:stock2201610 <http://www.example.org/price> "3679" .
+
+
+_:stock3201609 <http://www.example.org/stocktime> "201609" .
+_:stock3201609 <http://www.example.org/price> "2568" .
+
+
+_:stock3201610 <http://www.example.org/stocktime> "201610" .
+_:stock3201610 <http://www.example.org/price> "3009" .
+
+_:stock4201609 <http://www.example.org/stocktime> "201609" .
+_:stock4201609 <http://www.example.org/price> "1235" .
+_:stock4201610 <http://www.example.org/stocktime> "201610" .
+_:stock4201610 <http://www.example.org/price> "3453" .
+
+_:stock5201609 <http://www.example.org/stocktime> "201609" .
+_:stock5201609 <http://www.example.org/price> "4567" .
+_:stock5201610 <http://www.example.org/stocktime> "201610" .
+_:stock5201610 <http://www.example.org/price> "4577" .
+
+_:stock6201609 <http://www.example.org/stocktime> "201609" .
+_:stock6201609 <http://www.example.org/price> "4733" .
+_:stock6201610 <http://www.example.org/stocktime> "201610" .
+_:stock6201610 <http://www.example.org/price> "3478" .
+
+_:stock7201609 <http://www.example.org/stocktime> "201609" .
+_:stock7201609 <http://www.example.org/price> "34262" .
+_:stock7201610 <http://www.example.org/stocktime> "201610" .
+_:stock7201610 <http://www.example.org/price> "34453" .
+
+_:stock8201609 <http://www.example.org/stocktime> "201609" .
+_:stock8201609 <http://www.example.org/price> "67537" .
+_:stock8201610 <http://www.example.org/stocktime> "201610" .
+_:stock8201610 <http://www.example.org/price> "145277" .
+
+_:stock9201609 <http://www.example.org/stocktime> "201609" .
+_:stock9201609 <http://www.example.org/price> "345645" .
+_:stock9201610 <http://www.example.org/stocktime> "201610" .
+_:stock9201610 <http://www.example.org/price> "945634" .
